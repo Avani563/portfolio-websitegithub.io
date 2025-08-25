@@ -1,0 +1,25 @@
+body{
+    margin-left: 80px;
+text-align: center;
+background-color: antiquewhite;
+color:blue
+}
+h1{
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 15px;
+    text-transform: uppercase;
+
+}
+h2{
+    font-size: 18px;
+    margin: 10px;
+    color: blue;
+}
+img{
+    width: 120px;
+    height: 120px;
+    border-radius: 75%;
+    object-fit:fill;
+    border: 2px solid;
+}
